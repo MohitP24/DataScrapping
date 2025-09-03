@@ -632,5 +632,3 @@ if __name__ == "__main__":
     main()
 
 
-
-#WORKING BUT doesn't start with the USN that gave TIMEOUT error, goes to next usn
